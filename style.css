@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(9, 86, 230);
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.recipe-title {
+    color: red;
+}
+
+button:hover {
+    background-color: green;
+}
+
+body {
+    background: #FCF6B1;
+}
+h3, ul, ol, p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: orange;
+}
+
+h5 {
+    color: blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
